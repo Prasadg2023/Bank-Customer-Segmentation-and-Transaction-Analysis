@@ -94,9 +94,11 @@ The dataset includes the following key attributes:
 **Prasad Karade**    
 📧Email: karadeprasad023@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/prasad-karade-641799399/)
+
 💻 [GitHub](https://github.com/Prasadg2023)
 
 ## 📁 Project Repository
 https://github.com/Prasadg2023/Bank-Customer-Segmentation-and-Transaction-Analysis
 
 ---
+⭐ If you find this project helpful, don’t forget to star the repository!
