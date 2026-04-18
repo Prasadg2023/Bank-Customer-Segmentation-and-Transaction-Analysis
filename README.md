@@ -93,10 +93,11 @@ The dataset includes the following key attributes:
 ## 👨‍💻 Author
 
 **Prasad Karade**
-(Data Analyst | Power BI | Python | SQL | Exploratory Data Analysis | Advanced Excel | Advanced Stats)
-📧 Email: karadeprasad023@gmail.com
+Data Analyst | Power BI | Python | SQL | EDA | Advanced Excel | Advanced Statistics
 
-🔗 LinkedIn | GitHub
+📧 Email: karadeprasad023@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-username
+🐙 GitHub: https://github.com/your-github-username
 
 
 
