@@ -91,16 +91,12 @@ The dataset includes the following key attributes:
 ---
 
 ## 👨‍💻 Author
+**Prasad Karade**    
+📧Email: karadeprasad023@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/prasad-karade-641799399/)
+💻 [GitHub](https://github.com/Prasadg2023)
 
-**Prasad Karade**
-Data Analyst | Power BI | Python | SQL | EDA | Advanced Excel | Advanced Statistics
-
-📧 Email: karadeprasad023@gmail.com
-
-🔗 LinkedIn: https://www.linkedin.com/in/prasad-karade-641799399/
-
-🐙 GitHub: https://github.com/Prasadg2023
-
-
+## 📁 Project Repository
+https://github.com/Prasadg2023/Bank-Customer-Segmentation-and-Transaction-Analysis
 
 ---
