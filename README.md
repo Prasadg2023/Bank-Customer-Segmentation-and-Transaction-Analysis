@@ -94,5 +94,10 @@ The dataset includes the following key attributes:
 
 **Prasad Karade**
 (Data Analyst | Power BI | Python | SQL | Exploratory Data Analysis | Advanced Excel | Advanced Stats)
+📧 Email: karadeprasad023@gmail.com
+
+🔗 LinkedIn | GitHub
+
+
 
 ---
