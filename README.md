@@ -96,8 +96,8 @@ The dataset includes the following key attributes:
 Data Analyst | Power BI | Python | SQL | EDA | Advanced Excel | Advanced Statistics
 
 📧 Email: karadeprasad023@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-username
-🐙 GitHub: https://github.com/your-github-username
+🔗 LinkedIn: https://www.linkedin.com/in/prasad-karade-641799399/
+🐙 GitHub: https://github.com/Prasadg2023
 
 
 
